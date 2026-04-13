@@ -1,4 +1,8 @@
 # 📝 Feedback Management System
+<img width="1924" height="1084" alt="Screenshot 2026-04-13 165739" src="https://github.com/user-attachments/assets/56e8c071-a644-4fa6-8240-ae42a841b8a3" />
+<img width="1927" height="1087" alt="image" src="https://github.com/user-attachments/assets/afe8a534-4cdf-41e6-9e0c-159e29011714" />
+<img width="1927" height="1087" alt="image" src="https://github.com/user-attachments/assets/a01f27b1-3ef1-4382-b010-abad240a0c20" />
+<img width="1927" height="1087" alt="image" src="https://github.com/user-attachments/assets/1230f690-ee32-4bdd-8e63-27d2439306fb" />
 
 A full-stack **Feedback Management System** built on the **LAMP stack** (Linux, Apache, MySQL/MariaDB, PHP), designed to be deployed on an **Amazon Linux 2023 EC2** instance. It features a clean feedback submission form, a public card-grid view, and an admin panel with delete and status management.
 
